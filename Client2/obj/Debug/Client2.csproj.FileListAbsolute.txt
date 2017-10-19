@@ -1,0 +1,6 @@
+C:\Users\bojan.m.popovic\documents\visual studio 2013\Projects\Client2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\bojan.m.popovic\documents\visual studio 2013\Projects\Client2\Client2\bin\Client2.dll.config
+C:\Users\bojan.m.popovic\documents\visual studio 2013\Projects\Client2\Client2\bin\Client2.dll
+C:\Users\bojan.m.popovic\documents\visual studio 2013\Projects\Client2\Client2\bin\Client2.pdb
+C:\Users\bojan.m.popovic\documents\visual studio 2013\Projects\Client2\Client2\obj\Debug\Client2.dll
+C:\Users\bojan.m.popovic\documents\visual studio 2013\Projects\Client2\Client2\obj\Debug\Client2.pdb
